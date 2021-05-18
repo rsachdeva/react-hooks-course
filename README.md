@@ -1,11 +1,11 @@
-<h1 align="center">
-  <a href="https://ui.dev">
-    <img
-      src="https://ui.dev/images/logos/ui.png"
-      alt="UI.dev Logo" width="300" />
-  </a>
-  <br />
-</h1>
+To Start:
+
+```
+npm install
+npm run start
+```
+
+Node version 14.16.1 works.
 
 <h3 align="center">React Hooks Course Project - <a href="http://github-battle.ui.dev/">Github Battle App</a></h3>
 
