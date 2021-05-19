@@ -5,7 +5,7 @@ import ThemeContext from '../contexts/theme'
 export default function Card ({ header, subheader, avatar, href, name, children }) {
   const theme = React.useContext(ThemeContext)
   console.log("in Card theme is", theme)
-  
+
   return (
       <div className={`card bg-${theme}`}>
         <h4 className='header-lg center-text'>
