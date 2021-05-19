@@ -6,6 +6,9 @@ npm run start
 ```
 
 Node version 14.16.1 works.
+View at:
+http://localhost:8080/
+
 
 <h3 align="center">React Hooks Course Project - <a href="http://github-battle.ui.dev/">Github Battle App</a></h3>
 
